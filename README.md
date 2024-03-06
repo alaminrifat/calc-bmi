@@ -8,8 +8,6 @@ You can install the package using npm:
 
 `npm install calc-bmi` 
 
-Save to grepper
-
 ## Usage
 
 Here's an example of how to use the BMI calculation function from the package:
