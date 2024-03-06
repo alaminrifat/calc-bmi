@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "npm package to calculate BMI (Body Mass Index)",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaminrifat/calc-bmi.git"
   },
   "keywords": [
     "bmi",
@@ -13,5 +18,9 @@
     "bmi-calc"
   ],
   "author": "alaminrifat",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaminrifat/calc-bmi/issues"
+  },
+  "homepage": "https://github.com/alaminrifat/calc-bmi#readme"
 }
