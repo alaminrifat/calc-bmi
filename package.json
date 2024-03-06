@@ -1,0 +1,17 @@
+{
+  "name": "calc-bmi",
+  "version": "1.0.0",
+  "description": "npm package to calculate BMI (Body Mass Index)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "bmi",
+    "calculate",
+    "calc-bmi",
+    "bmi-calc"
+  ],
+  "author": "alaminrifat",
+  "license": "ISC"
+}
